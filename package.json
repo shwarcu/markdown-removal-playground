@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-md",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest",
+    "start": "tsx ./src/main.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/mdast": "^4.0.3",
+    "@types/node": "^20.11.16",
+    "@vitest/ui": "^1.2.2",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3",
+    "vitest": "^1.2.2"
+  },
+  "dependencies": {
+    "mdast-util-from-markdown": "^2.0.0",
+    "mdast-util-gfm-strikethrough": "^2.0.0",
+    "micromark-extension-gfm-strikethrough": "^2.0.0",
+    "remark": "^15.0.1"
+  }
+}
