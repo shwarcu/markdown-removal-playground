@@ -12,10 +12,10 @@
   "devDependencies": {
     "@types/mdast": "^4.0.3",
     "@types/node": "^20.11.16",
-    "@vitest/ui": "^1.2.2",
-    "tsx": "^4.7.0",
+    "@vitest/ui": "^4.0.16",
+    "tsx": "^4.21.0",
     "typescript": "^5.3.3",
-    "vitest": "^1.6.1"
+    "vitest": "^4.0.16"
   },
   "dependencies": {
     "mdast-util-from-markdown": "^2.0.0",
