@@ -15,7 +15,7 @@
     "@vitest/ui": "^4.0.16",
     "tsx": "^4.21.0",
     "typescript": "^5.3.3",
-    "vitest": "^4.0.16"
+    "vitest": "^4.1.0"
   },
   "dependencies": {
     "mdast-util-from-markdown": "^2.0.0",
